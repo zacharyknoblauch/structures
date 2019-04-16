@@ -1,0 +1,10 @@
+ID      Name                Salary   
+-------------------------------------
+1000    George Washington   10000.00 
+2000    John Adams          15000.00 
+1212    Thomas Jefferson    34000.00 
+1313    Abraham Lincoln     45000.00 
+1515    Jimmy Carter        78000.00 
+1717    George Bush         80000.00 
+
+Total Payroll: $262000.00
